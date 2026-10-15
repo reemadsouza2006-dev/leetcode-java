@@ -1,4 +1,3 @@
-
 # 💻 LeetCode Solutions in Java
 
 Welcome to my LeetCode practice repository! 👋
@@ -95,7 +94,13 @@ This repository represents my ongoing effort to become a better programmer, one 
 ## 🔗 Connect With Me
 
 - **GitHub:** [reemadsouza2006-dev](https://github.com/reemadsouza2006-dev)
-- **LeetCode:** [My LeetCode profile](https://leetcode.com/)
+- **LeetCode:** [My LeetCode Profile](https://leetcode.com/u/reemadsouza2006/)
+
+<p>
+  <a href="https://leetcode.com/u/reemadsouza2006/">
+    <img src="https://img.shields.io/badge/LeetCode-View_My_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Profile"/>
+  </a>
+</p>
 
 ---
 
